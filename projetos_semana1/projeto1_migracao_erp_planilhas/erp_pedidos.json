@@ -1,0 +1,50 @@
+[
+  {
+    "ID_Pedido": 1001,
+    "Cliente": "Ana Silva",
+    "Produto": "Camiseta Azul",
+    "Quantidade": 2,
+    "Preco": 79.90,
+    "Data": "2025-09-01"
+  },
+  {
+    "ID_Pedido": 1002,
+    "Cliente": "Bruno Souza",
+    "Produto": "Calça Jeans",
+    "Quantidade": 1,
+    "Preco": 149.90,
+    "Data": "2025-09-01"
+  },
+  {
+    "ID_Pedido": 1003,
+    "Cliente": "Carla Lima",
+    "Produto": "Tênis Esportivo",
+    "Quantidade": 1,
+    "Preco": 299.90,
+    "Data": "2025-09-02"
+  },
+  {
+    "ID_Pedido": 1004,
+    "Cliente": "Daniel Costa",
+    "Produto": "Jaqueta Couro",
+    "Quantidade": 1,
+    "Preco": 499.90,
+    "Data": "2025-09-02"
+  },
+  {
+    "ID_Pedido": 1005,
+    "Cliente": "Elisa Martins",
+    "Produto": "Moletom Vermelho",
+    "Quantidade": 3,
+    "Preco": 199.90,
+    "Data": "2025-09-03"
+  },
+  {
+    "ID_Pedido": 1006,
+    "Cliente": "JAMILY TESTE",
+    "Produto": "Moletom LUAN SANTANA",
+    "Quantidade": 7,
+    "Preco": 11199.90,
+    "Data": "2025-09-07"
+  }
+]

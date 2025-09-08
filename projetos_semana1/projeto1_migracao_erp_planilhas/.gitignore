@@ -1,0 +1,13 @@
+# Ignorar chaves e arquivos sensíveis
+service_account.json
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos do sistema
+.DS_Store
